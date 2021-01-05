@@ -40,3 +40,7 @@ functions
 
 .env
 .DS_Store
+# Local Netlify folder
+.netlify
+
+README.html

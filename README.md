@@ -1,15 +1,16 @@
-# Express.js on Netlify Example
+# Demo App for `express-github-stats-card`: Express.js on Netlify
 
-[![Netlify
-Status](https://api.netlify.com/api/v1/badges/9aaef7de-1e5d-4fda-bc39-faa10a68b35b/deploy-status)](https://app.netlify.com/sites/netlify-express/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b49342c-852c-44b3-9261-1d0f5affecd0/deploy-status)](https://app.netlify.com/sites/express-github-stats-card-demo/deploys)
 
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/neverendingqs/netlify-express)
+[Live Demo URL](https://express-github-stats-card-demo.netlify.app/)
 
-An example of how to host an Express.js app on Netlify using
+---
+
+Express
+
 [serverless-http](https://github.com/dougmoscrop/serverless-http). See
 [express/server.js](express/server.js) for details, or check it out at
-https://netlify-express.netlify.com/!
+[https://netlify-express.netlify.com/](https://netlify-express.netlify.com/)!$$
 
 [index.html](index.html) simply loads html from the Express.js app using
 `<object>`, and the app is hosted at `/.netlify/functions/server`. Examples of
